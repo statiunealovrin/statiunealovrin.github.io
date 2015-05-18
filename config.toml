@@ -1,0 +1,17 @@
+baseurl = "http://statiunealovrin.ro"
+languageCode = "en-us"
+title = "Statiunea Lovrin"
+theme = "redlounge"
+publishdir = "dist"
+paginate = 9
+
+[params]
+    authorname = "Radu Fericean"
+    githubuser = "statiunealovrin"
+    copyright = "statiunealovrin"
+    sidebartitle = "Statiunea Lovrin"
+    sidebartagline = "Statiunea de cercetare si dezvoltare agricola Lovrin"
+
+[[menu.main]]
+    name = "Stiri"
+    url = "/post"
