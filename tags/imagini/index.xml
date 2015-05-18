@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Imagini on Statiunea Lovrin</title>
-    <link>http://localhost:1313/tags/imagini/</link>
+    <link>http://statiunealovrin.ro/tags/imagini/</link>
     <description>Recent content in Imagini on Statiunea Lovrin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
     
     <lastBuildDate>Mon, 18 May 2015 14:58:52 EEST</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/imagini/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://statiunealovrin.ro/tags/imagini/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>imagini</title>
-      <link>http://localhost:1313/imagini/</link>
+      <link>http://statiunealovrin.ro/imagini/</link>
       <pubDate>Mon, 18 May 2015 14:58:52 EEST</pubDate>
       
-      <guid>http://localhost:1313/imagini/</guid>
+      <guid>http://statiunealovrin.ro/imagini/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;/photos/despre/1.jpg&#34; title=&#34;&#34; data-lightbox=&#34;set1&#34; data-title=&#34;1&#34;&gt; &lt;img src=&#34;/photos/despre/thumb_1.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;
 &lt;a href=&#34;/photos/despre/2.jpg&#34; title=&#34;&#34; data-lightbox=&#34;set1&#34; data-title=&#34;1&#34;&gt; &lt;img src=&#34;/photos/despre/thumb_2.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;
 &lt;a href=&#34;/photos/despre/3.jpg&#34; title=&#34;&#34; data-lightbox=&#34;set1&#34; data-title=&#34;1&#34;&gt; &lt;img src=&#34;/photos/despre/thumb_3.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;
