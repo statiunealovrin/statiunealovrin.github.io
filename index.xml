@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Statiunea Lovrin</title>
+    <link>http://statiunealovrin.ro/</link>
+    <description>Recent content on Statiunea Lovrin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+    
+    <lastBuildDate>Mon, 18 May 2015 13:04:29 EEST</lastBuildDate>
+    <atom:link href="http://statiunealovrin.ro/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>prima</title>
+      <link>http://statiunealovrin.ro/post/prima/</link>
+      <pubDate>Mon, 18 May 2015 13:04:29 EEST</pubDate>
+      
+      <guid>http://statiunealovrin.ro/post/prima/</guid>
+      <description>&lt;p&gt;Prima stire legata de statiunea de cercetare si dezvoltare agricola Lovrin.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>index</title>
+      <link>http://statiunealovrin.ro/</link>
+      <pubDate>Mon, 18 May 2015 12:30:36 EEST</pubDate>
+      
+      <guid>http://statiunealovrin.ro/</guid>
+      <description>&lt;p&gt;Hello world&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
