@@ -10,8 +10,8 @@ paginate = 9
     githubuser = "statiunealovrin"
     copyright = "statiunealovrin"
     sidebartitle = "Statiunea Lovrin"
-    sidebartagline = "Statiunea de cercetare si dezvoltare agricola Lovrin"
+    sidebartagline = "Statiunea de cercetare-dezvoltare agricola Lovrin"
 
-[[menu.main]]
-    name = "Stiri"
-    url = "/post"
+#[[menu.main]]
+#    name = "Home"
+#    url = "/post"

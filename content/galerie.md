@@ -1,10 +1,10 @@
 +++
-Categories = ["Imagini"]
+Categories = ["Galerie"]
 Description = ""
-Tags = ["imagini"]
+Tags = ["galerie"]
 date = "2015-05-18T14:58:52+03:00"
 menu = "main"
-title = "imagini"
+title = "galerie"
 nodate = true
 lightbox = true
 

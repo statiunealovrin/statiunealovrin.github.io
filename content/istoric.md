@@ -1,8 +1,8 @@
 +++
 Description = ""
-date = "2015-05-18T14:58:47+03:00"
+date = "2015-05-18T14:59:02+03:00"
 menu = "main"
-title = "despre"
+title = "istoric"
 nodate = true
 
 +++
