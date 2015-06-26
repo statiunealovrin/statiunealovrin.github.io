@@ -65,11 +65,11 @@ si la Tel.: 0256.381.401, compartimentul Resurse umane
     </item>
     
     <item>
-      <title>istoric</title>
-      <link>http://statiunealovrin.ro/istoric/</link>
+      <title>oferte seminte</title>
+      <link>http://statiunealovrin.ro/oferte_seminte/</link>
       <pubDate>Mon, 18 May 2015 14:59:02 +0300</pubDate>
       
-      <guid>http://statiunealovrin.ro/istoric/</guid>
+      <guid>http://statiunealovrin.ro/oferte_seminte/</guid>
       <description></description>
     </item>
     
@@ -79,15 +79,6 @@ si la Tel.: 0256.381.401, compartimentul Resurse umane
       <pubDate>Mon, 18 May 2015 14:59:02 +0300</pubDate>
       
       <guid>http://statiunealovrin.ro/echipa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>oferte seminte</title>
-      <link>http://statiunealovrin.ro/oferte_seminte/</link>
-      <pubDate>Mon, 18 May 2015 14:59:02 +0300</pubDate>
-      
-      <guid>http://statiunealovrin.ro/oferte_seminte/</guid>
       <description></description>
     </item>
     
@@ -106,6 +97,15 @@ si la Tel.: 0256.381.401, compartimentul Resurse umane
       <pubDate>Mon, 18 May 2015 14:59:02 +0300</pubDate>
       
       <guid>http://statiunealovrin.ro/soiuri_si_hibrizi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>istoric</title>
+      <link>http://statiunealovrin.ro/istoric/</link>
+      <pubDate>Mon, 18 May 2015 14:59:02 +0300</pubDate>
+      
+      <guid>http://statiunealovrin.ro/istoric/</guid>
       <description></description>
     </item>
     
