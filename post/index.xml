@@ -2,20 +2,56 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Statiunea Lovrin</title>
-    <link>http://statiunealovrin.ro/post/</link>
+    <link>http://localhost:1313/post/</link>
     <description>Recent content in Posts on Statiunea Lovrin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 May 2015 13:04:29 +0300</lastBuildDate>
-    <atom:link href="http://statiunealovrin.ro/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 May 2015 13:04:29 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>prima</title>
-      <link>http://statiunealovrin.ro/post/prima/</link>
-      <pubDate>Mon, 18 May 2015 13:04:29 +0300</pubDate>
+      <title>Concurs</title>
+      <link>http://localhost:1313/post/concurs/</link>
+      <pubDate>Tue, 26 May 2015 13:04:29 +0300</pubDate>
       
-      <guid>http://statiunealovrin.ro/post/prima/</guid>
-      <description>&lt;p&gt;Prima stire legata de statiunea de cercetare si dezvoltare agricola Lovrin.&lt;/p&gt;
+      <guid>http://localhost:1313/post/concurs/</guid>
+      <description>
+
+&lt;h2 id=&#34;statiunea-de-cercetare-dezvoltare-agricola-lovrin-organizeaza-concurs-in-data-de-20-iulie-2015:256e1f6e8067944a259d344dd7a37fe4&#34;&gt;STATIUNEA DE CERCETARE-DEZVOLTARE AGRICOLA LOVRIN organizeaza concurs in data de 20 Iulie 2015&lt;/h2&gt;
+
+&lt;p&gt;În temeiul H.G. României nr.&lt;sup&gt;286&lt;/sup&gt;&amp;frasl;&lt;sub&gt;23&lt;/sub&gt;.03.2011, art.7(1),(2), si (3) lit. a,b,c,d si e (4),(5), si (6),&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Statiunea de Cercetare-Dezvoltare Agricola Lovrin, judetul Timis scoate la concurs urmatoarele posturi:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;1 post Inginer - SUCS;&lt;/li&gt;
+&lt;li&gt;1 post Muncitor ­ Punct lucru Oradea;&lt;/li&gt;
+&lt;li&gt;1 post Muncitor ­ Laborator ameliorarea grâului;&lt;/li&gt;
+&lt;li&gt;1 post Mecanic agricol ­ Punct lucru Oradea.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;dosarul-de-concurs-va-cuprinde-urmatoarele-acte:256e1f6e8067944a259d344dd7a37fe4&#34;&gt;Dosarul de concurs va cuprinde urmatoarele acte:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;cerere de inscriere la concurs;&lt;/li&gt;
+&lt;li&gt;curriculum vitae;&lt;/li&gt;
+&lt;li&gt;copie act identitate;&lt;/li&gt;
+&lt;li&gt;copie diploma bacalaureat, diploma licenta, insotite de foaia matricola;&lt;/li&gt;
+&lt;li&gt;copie de pe cartea de munca, precum si adeverinta care sa ateste vechimea in munca dupa caz;&lt;/li&gt;
+&lt;li&gt;cazierul judiciar sau declaratie pe propria raspundere;&lt;/li&gt;
+&lt;li&gt;adeverinta medicala care sa ateste starea de sanatate;&lt;/li&gt;
+&lt;li&gt;alte documente care releva cursuri, specializari efectuate.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Concursul se va desfasura in data de 20 Iulie 2015, ora 10, la sediul S.C.D.A. LOVRIN&lt;/p&gt;
+
+&lt;p&gt;Dosarele cu actele de concurs se vor depune la compartimentul Resurse Umane
+in termen de 10 zile lucratoare de la publicarea anuntului.
+Probele de concurs constau pentru toate posturile in probe scrise.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Informatii se pot obtine la sediul unitatii
+si la Tel.: 0256.381.401, compartimentul Resurse umane
+&lt;/code&gt;&lt;/pre&gt;
 </description>
     </item>
     
