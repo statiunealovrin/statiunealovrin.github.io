@@ -9,7 +9,7 @@ paginate = 9
     authorname = "Radu Fericean"
     githubuser = "statiunealovrin"
     copyright = "statiunealovrin"
-    sidebartitle = "Statiunea Lovrin"
+    #sidebartitle = "Statiunea Lovrin"
     sidebartagline = "Statiunea de cercetare-dezvoltare agricola Lovrin"
 
 #[[menu.main]]

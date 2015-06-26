@@ -2,8 +2,10 @@
   <div class="header">
     {{ partial "sidebarheader.html" . }}
 
+      <div id="sidebar-titles">
       {{ if .Site.Params.sidebartitle }}<h1 class="brand-title"><a id="main-title" href="{{ .Site.BaseURL }}">{{ .Site.Params.sidebartitle }}</a></h1>{{ end }}
-    {{ if .Site.Params.sidebartagline }}<h2 class="brand-tagline">{{ .Site.Params.sidebartagline }}</h2>{{ end }}
+          {{ if .Site.Params.sidebartagline }}<h2 class="brand-tagline">{{ .Site.Params.sidebartagline }}</h2>{{ end }}
+      </div>
 
     <nav class="nav">
       <ul class="nav-list">
