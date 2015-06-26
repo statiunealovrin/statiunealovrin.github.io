@@ -56,15 +56,6 @@ si la Tel.: 0256.381.401, compartimentul Resurse umane
     </item>
     
     <item>
-      <title>istoric</title>
-      <link>http://statiunealovrin.ro/istoric/</link>
-      <pubDate>Mon, 18 May 2015 14:59:02 +0300</pubDate>
-      
-      <guid>http://statiunealovrin.ro/istoric/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>cercetare</title>
       <link>http://statiunealovrin.ro/cercetare/</link>
       <pubDate>Mon, 18 May 2015 14:59:02 +0300</pubDate>
@@ -83,6 +74,15 @@ si la Tel.: 0256.381.401, compartimentul Resurse umane
     </item>
     
     <item>
+      <title>istoric</title>
+      <link>http://statiunealovrin.ro/istoric/</link>
+      <pubDate>Mon, 18 May 2015 14:59:02 +0300</pubDate>
+      
+      <guid>http://statiunealovrin.ro/istoric/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>oferte seminte</title>
       <link>http://statiunealovrin.ro/oferte_seminte/</link>
       <pubDate>Mon, 18 May 2015 14:59:02 +0300</pubDate>
@@ -92,20 +92,20 @@ si la Tel.: 0256.381.401, compartimentul Resurse umane
     </item>
     
     <item>
-      <title>soiuri si hibrizi</title>
-      <link>http://statiunealovrin.ro/soiuri_si_hibrizi/</link>
-      <pubDate>Mon, 18 May 2015 14:59:02 +0300</pubDate>
-      
-      <guid>http://statiunealovrin.ro/soiuri_si_hibrizi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>publicatii</title>
       <link>http://statiunealovrin.ro/publicatii/</link>
       <pubDate>Mon, 18 May 2015 14:59:02 +0300</pubDate>
       
       <guid>http://statiunealovrin.ro/publicatii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>soiuri si hibrizi</title>
+      <link>http://statiunealovrin.ro/soiuri_si_hibrizi/</link>
+      <pubDate>Mon, 18 May 2015 14:59:02 +0300</pubDate>
+      
+      <guid>http://statiunealovrin.ro/soiuri_si_hibrizi/</guid>
       <description></description>
     </item>
     
