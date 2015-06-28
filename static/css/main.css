@@ -1,5 +1,6 @@
 #main-title {
     text-decoration: none;
+    display: none;
 }
 
 #panou {
@@ -18,8 +19,18 @@
     color: white;
 }
 
+.sidebar {
+    background: #1D4219;
+}
+
 @media screen and (max-width: 48rem) {
     #panou {
         display: none ;
+    }
+    #main-title {
+        display: inline;
+    }
+    #sidebar-titles {
+        padding-top: 0;
     }
 }
