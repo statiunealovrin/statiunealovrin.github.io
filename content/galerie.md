@@ -10,7 +10,7 @@ lightbox = true
 
 +++
 
-<a href="/photos/despre/1.jpg" title="" data-lightbox="set1" data-title="1"> <img src="/photos/despre/thumb_1.jpg" alt=""></a>
-<a href="/photos/despre/2.jpg" title="" data-lightbox="set1" data-title="1"> <img src="/photos/despre/thumb_2.jpg" alt=""></a>
-<a href="/photos/despre/3.jpg" title="" data-lightbox="set1" data-title="1"> <img src="/photos/despre/thumb_3.jpg" alt=""></a>
-<a href="/photos/despre/4.jpg" title="" data-lightbox="set1" data-title="1"> <img src="/photos/despre/thumb_4.jpg" alt=""></a>
+<a href="/photos/galerie/1.jpg" title="" data-lightbox="set1" data-title="1"> <img src="/photos/galerie/thumb_1.jpg" alt=""></a>
+<a href="/photos/galerie/2.jpg" title="" data-lightbox="set1" data-title="1"> <img src="/photos/galerie/thumb_2.jpg" alt=""></a>
+<a href="/photos/galerie/3.jpg" title="" data-lightbox="set1" data-title="1"> <img src="/photos/galerie/thumb_3.jpg" alt=""></a>
+<a href="/photos/galerie/4.jpg" title="" data-lightbox="set1" data-title="1"> <img src="/photos/galerie/thumb_4.jpg" alt=""></a>
