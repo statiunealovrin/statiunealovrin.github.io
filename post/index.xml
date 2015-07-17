@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Statiunea Lovrin</title>
-    <link>http://localhost:1313/post/</link>
+    <link>http://statiunealovrin.ro/post/</link>
     <description>Recent content in Posts on Statiunea Lovrin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 17 Jul 2015 14:54:38 +0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://statiunealovrin.ro/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>selectia dosarelor</title>
-      <link>http://localhost:1313/post/dosare/</link>
+      <link>http://statiunealovrin.ro/post/dosare/</link>
       <pubDate>Fri, 17 Jul 2015 14:54:38 +0300</pubDate>
       
-      <guid>http://localhost:1313/post/dosare/</guid>
+      <guid>http://statiunealovrin.ro/post/dosare/</guid>
       <description>
 
 &lt;h2 id=&#34;anunt-privind-selectia-dosarelor-inscrise-la-concursul-pentru-ocuparea-posturilor-de-acs-si-cs-iii-din-data-de-24-07-2015:1a368172e737829330f43b79f2512252&#34;&gt;ANUNT PRIVIND SELECTIA DOSARELOR INSCRISE LA CONCURSUL PENTRU OCUPAREA POSTURILOR DE ACS SI CS III DIN DATA DE 24.07.2015&lt;/h2&gt;
@@ -81,15 +81,15 @@ nr.&lt;sup&gt;53&lt;/sup&gt;&amp;frasl;&lt;sub&gt;02&lt;/sub&gt;.07.2015 a const
     
     <item>
       <title>Concurs</title>
-      <link>http://localhost:1313/post/concurs/</link>
+      <link>http://statiunealovrin.ro/post/concurs/</link>
       <pubDate>Wed, 01 Jul 2015 13:04:29 +0300</pubDate>
       
-      <guid>http://localhost:1313/post/concurs/</guid>
+      <guid>http://statiunealovrin.ro/post/concurs/</guid>
       <description>
 
 &lt;h2 id=&#34;statiunea-de-cercetare-dezvoltare-agricola-lovrin-organizeaza-concurs-in-data-de-24-iulie-2015:256e1f6e8067944a259d344dd7a37fe4&#34;&gt;STATIUNEA DE CERCETARE-DEZVOLTARE AGRICOLA LOVRIN organizeaza concurs in data de 24 Iulie 2015&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/photos/post/anunt_iulie.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://statiunealovrin.ro/photos/post/anunt_iulie.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
