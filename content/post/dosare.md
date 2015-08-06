@@ -19,7 +19,7 @@ fonduri publice, aprobat prin H.G.nr.286/2011 ultima actualizare în 21.01.2015,
 analiza dosarelor, comisia de concurs numită prin decizia S.C.D.A.Lovrin
 nr.53/02.07.2015 a constatat următoarele:
 
-
+<!--more-->
 
 | Nr. crt. | Nume şi prenume candidat  | Post concurs  | Rezultat  |
 |---|---|---|---|
