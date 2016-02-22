@@ -1,17 +1,19 @@
 baseurl = "http://statiunealovrin.ro"
-languageCode = "en-us"
-title = "Statiunea de cercetare dezvoltare agricola Lovrin"
+title = "Statiunea Lovrin"
 theme = "startbootstrap-clean-blog"
 publishdir = "dist"
 paginate = 9
+languageCode = "ro-ro"
+copyright = "Code released under the Apache 2.0 license."
+
+[author]
+  name = "Radu Fericean"
 
 [params]
-    authorname = "Radu Fericean"
-    githubuser = "statiunealovrin"
-    copyright = "statiunealovrin"
-    sidebartitle = "Statiunea Lovrin"
-    sidebartagline = "Statiunea de cercetare-dezvoltare agricola Lovrin"
-
-#[[menu.main]]
-#    name = "Home"
-#    url = "/post"
+  DateForm = "Mon, Jan 2, 2006"
+  Description = "Statiunea de cercetare-dezvoltare agricola Lovrin"
+  Author = "Radu Fericean"
+  email = "radu@fericean.ro"
+  githubuser = "statiunealovrin"
+  copyright = "statiunealovrin"
+  #Ganalytics = "XX-00000000-0"
