@@ -4,6 +4,7 @@ date = "2015-09-15T14:59:02+03:00"
 menu = "main"
 title = "istoric"
 nodate = true
+weight = 10
 +++
 
 ## Scurt istoric

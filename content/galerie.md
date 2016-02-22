@@ -7,7 +7,7 @@ menu = "main"
 title = "galerie"
 nodate = true
 lightbox = true
-
+weight = 50
 +++
 
 <a href="/photos/galerie/1.jpg" title="" data-lightbox="set1" data-title="1"> <img src="/photos/galerie/thumb_1.jpg" alt=""></a>

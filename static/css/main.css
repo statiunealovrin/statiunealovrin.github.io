@@ -1,36 +1,13 @@
-#main-title {
-    text-decoration: none;
-    display: none;
+body>header{
+	background: #333 url("/images/header_background.jpg") no-repeat top center;
 }
 
-#panou {
-    position: absolute;
-    top: 0;
-    /*z-index: -1;
-    opacity: 0.4;
-    filter: alpha(opacity=40);*/
+#left-logo {
+	float: left;
+	height: 200px;
 }
 
-#sidebar-titles {
-    padding-top: 30%;
-}
-
-#sidebar-titles h2 {
-    color: white;
-}
-
-.sidebar {
-    background: #1D4219;
-}
-
-@media screen and (max-width: 48rem) {
-    #panou {
-        display: none ;
-    }
-    #main-title {
-        display: inline;
-    }
-    #sidebar-titles {
-        padding-top: 0;
-    }
+#right-logo {
+	float: right;
+	height: 200px;
 }

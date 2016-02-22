@@ -1,7 +1,7 @@
 baseurl = "http://statiunealovrin.ro"
 languageCode = "en-us"
-title = "Statiunea Lovrin"
-theme = "liquorice"
+title = "Statiunea de cercetare dezvoltare agricola Lovrin"
+theme = "startbootstrap-clean-blog"
 publishdir = "dist"
 paginate = 9
 
