@@ -28,12 +28,22 @@
   </url>
   
   <url>
+    <loc>http://statiunealovrin.ro/obiective/</loc>
+    <lastmod>2016-02-23T09:17:58+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://statiunealovrin.ro/soiuri_si_hibrizi/</loc>
     <lastmod>2015-05-18T14:59:02+03:00</lastmod>
   </url>
   
   <url>
     <loc>http://statiunealovrin.ro/oferte_seminte/</loc>
+    <lastmod>2015-05-18T14:59:02+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://statiunealovrin.ro/cercetare/</loc>
     <lastmod>2015-05-18T14:59:02+03:00</lastmod>
   </url>
   
@@ -48,13 +58,13 @@
   </url>
   
   <url>
-    <loc>http://statiunealovrin.ro/cercetare/</loc>
+    <loc>http://statiunealovrin.ro/publicatii/</loc>
     <lastmod>2015-05-18T14:59:02+03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://statiunealovrin.ro/publicatii/</loc>
-    <lastmod>2015-05-18T14:59:02+03:00</lastmod>
+    <loc>http://statiunealovrin.ro/contact/</loc>
+    <lastmod>2016-02-23T09:21:45+02:00</lastmod>
   </url>
   
 </urlset>
