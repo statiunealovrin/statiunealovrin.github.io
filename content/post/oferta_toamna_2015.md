@@ -1,7 +1,7 @@
 +++
-Categories = []
+Categories = ["Oferte"]
 Description = "preturi propuse pentru toamna 2015"
-Tags = []
+Tags = ["preturi", "seminte"]
 date = "2015-08-06T10:36:02+03:00"
 title = "preturi propuse pentru toamna 2015"
 +++

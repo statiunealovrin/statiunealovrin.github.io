@@ -6,9 +6,16 @@ nodate = true
 weight = 30
 +++
 
+# PREȚURI PROPUSE PENTRU PRIMAVARA 2016
+
+<img src="/photos/post/oferta_primavara_2016.png" alt="">
+
+Director
+Dr. Nicolae Marinel HORABLAGA
+
 # PREȚURI PROPUSE PENTRU TOAMNA 2015
 
-<img src="/photos/post/seminte_toamna_2015.png" alt="">
+<img src="/photos/post/oferta_toamna_2015.png" alt="">
 
 - La cantități mai mari de 100 tone se acorda o reducere de 25%
 - La cantități mai mari de 50 tone se acorda o reducere de 15%
