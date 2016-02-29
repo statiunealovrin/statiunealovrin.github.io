@@ -7,3 +7,5 @@ nodate = true
 weight = 20
 image = "/img/about-bg.jpg"
 +++
+
+Pagina in constructie. Va rugam sa reveniti.
