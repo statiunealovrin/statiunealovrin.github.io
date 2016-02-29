@@ -7,4 +7,12 @@ nodate = true
 weight = 80
 +++
 
-Pagina in constructie. Va rugam sa reveniti.
+## Reprezentatnt vanzari si achizitii
+* Interval orar: L-V  08:00 - 16.00
+* Nume: Pop Livius
+* Tel: 0725.565.023 ; 0723.343.583
+
+## Secretariat: 0256381401
+* Fax: 0256.381.404
+*  Email: [scdal@yahoo.com](mailto://scdal@yahoo.com)
+* [Facebook](https://www.facebook.com/Statiunea-de-Cercetare-Dezvoltare-agricola-Lovrin-391942644298393/)

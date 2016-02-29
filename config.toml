@@ -12,8 +12,11 @@ copyright = "Code released under the Apache 2.0 license."
 [params]
   DateForm = "Mon, Jan 2, 2006"
   Description = "Statiunea de cercetare-dezvoltare agricola Lovrin"
-  Author = "Radu Fericean"
-  email = "radu@fericean.ro"
+  Author = "Statiunea Lovrin"
+  email = "scdal@yahoo.com"
   githubuser = "statiunealovrin"
   copyright = "statiunealovrin"
   #Ganalytics = "XX-00000000-0"
+[[params.social]]
+  title = "facebook"
+  url = "https://www.facebook.com/Statiunea-de-Cercetare-Dezvoltare-agricola-Lovrin-391942644298393/"
