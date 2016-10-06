@@ -2,13 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Statiunea Lovrin</title>
-    <link>http://statiunealovrin.ro/</link>
+    <link>http://statiunealovrin.ro/index.xml</link>
     <description>Recent content on Statiunea Lovrin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ro-ro</language>
-    <copyright>Code released under the Apache 2.0 license.</copyright>
-    <lastBuildDate>Sat, 27 Feb 2016 10:15:26 +0200</lastBuildDate>
+    <copyright>statiunealovrin</copyright>
+    <lastBuildDate>Thu, 06 Oct 2016 17:35:26 +0300</lastBuildDate>
     <atom:link href="http://statiunealovrin.ro/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>preturi propuse pentru toamna 2016</title>
+      <link>http://statiunealovrin.ro/post/oferta_toamna_2016/</link>
+      <pubDate>Thu, 06 Oct 2016 17:35:26 +0300</pubDate>
+      
+      <guid>http://statiunealovrin.ro/post/oferta_toamna_2016/</guid>
+      <description>&lt;h2 id=&#34;prețuri-propuse-pentru-toamna-2016&#34;&gt;PREȚURI PROPUSE PENTRU TOAMNA 2016&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://statiunealovrin.ro/photos/post/oferta_toamna_2016.jpg&#34; alt=&#34;&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Director
+Dr. Nicolae Marinel HORABLAGA&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>preturi propuse pentru primavara 2016</title>
@@ -16,15 +32,14 @@
       <pubDate>Sat, 27 Feb 2016 10:15:26 +0200</pubDate>
       
       <guid>http://statiunealovrin.ro/post/oferta_primavara_2016/</guid>
-      <description>
-
-&lt;h2 id=&#34;prețuri-propuse-pentru-primavara-2016:7750ab309e18b85e758df754d42326cc&#34;&gt;PREȚURI PROPUSE PENTRU PRIMAVARA 2016&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;prețuri-propuse-pentru-primavara-2016&#34;&gt;PREȚURI PROPUSE PENTRU PRIMAVARA 2016&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://statiunealovrin.ro/photos/post/oferta_primavara_2016.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 
+&lt;p&gt;&lt;/p&gt;
+
 &lt;p&gt;Director
-Dr. Nicolae Marinel HORABLAGA&lt;/p&gt;
-</description>
+Dr. Nicolae Marinel HORABLAGA&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -33,9 +48,7 @@ Dr. Nicolae Marinel HORABLAGA&lt;/p&gt;
       <pubDate>Thu, 06 Aug 2015 10:36:02 +0300</pubDate>
       
       <guid>http://statiunealovrin.ro/post/oferta_toamna_2015/</guid>
-      <description>
-
-&lt;h2 id=&#34;prețuri-propuse-pentru-toamna-2015:e390ee867df608d3b474f03261a5b13a&#34;&gt;PREȚURI PROPUSE PENTRU TOAMNA 2015&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;prețuri-propuse-pentru-toamna-2015&#34;&gt;PREȚURI PROPUSE PENTRU TOAMNA 2015&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://statiunealovrin.ro/photos/post/seminte_toamna_2015.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 
@@ -44,9 +57,10 @@ Dr. Nicolae Marinel HORABLAGA&lt;/p&gt;
 &lt;li&gt;La cantități mai mari de 50 tone se acorda o reducere de 15%&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;p&gt;&lt;/p&gt;
+
 &lt;p&gt;Director
-Dr. Nicolae Marinel HORABLAGA&lt;/p&gt;
-</description>
+Dr. Nicolae Marinel HORABLAGA&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -55,9 +69,7 @@ Dr. Nicolae Marinel HORABLAGA&lt;/p&gt;
       <pubDate>Fri, 17 Jul 2015 14:54:38 +0300</pubDate>
       
       <guid>http://statiunealovrin.ro/post/dosare/</guid>
-      <description>
-
-&lt;h2 id=&#34;anunt-privind-selectia-dosarelor-inscrise-la-concursul-pentru-ocuparea-posturilor-de-acs-si-cs-iii-din-data-de-24-07-2015:1a368172e737829330f43b79f2512252&#34;&gt;ANUNT PRIVIND SELECTIA DOSARELOR INSCRISE LA CONCURSUL PENTRU OCUPAREA POSTURILOR DE ACS SI CS III DIN DATA DE 24.07.2015&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;anunt-privind-selectia-dosarelor-inscrise-la-concursul-pentru-ocuparea-posturilor-de-acs-si-cs-iii-din-data-de-24-07-2015&#34;&gt;ANUNT PRIVIND SELECTIA DOSARELOR INSCRISE LA CONCURSUL PENTRU OCUPAREA POSTURILOR DE ACS SI CS III DIN DATA DE 24.07.2015&lt;/h2&gt;
 
 &lt;p&gt;Avand în vedere anunţul publicat în data de 01.07.2015 privind organizarea
 concursului pentru ocuparea postului de ACS, în baza art.7, art.15 lit.a), b), şi h), art.17
@@ -68,6 +80,8 @@ profesionale imediat superioare a personalului contractual din sectorul bugetar 
 fonduri publice, aprobat prin H.G.nr.&lt;sup&gt;286&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2011&lt;/sub&gt; ultima actualizare în 21.01.2015, dupa
 analiza dosarelor, comisia de concurs numită prin decizia S.C.D.A.Lovrin
 nr.&lt;sup&gt;53&lt;/sup&gt;&amp;frasl;&lt;sub&gt;02&lt;/sub&gt;.07.2015 a constatat următoarele:&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
 
 &lt;table&gt;
 &lt;thead&gt;
@@ -115,8 +129,7 @@ nr.&lt;sup&gt;53&lt;/sup&gt;&amp;frasl;&lt;sub&gt;02&lt;/sub&gt;.07.2015 a const
 &lt;td&gt;Admis&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;
-</description>
+&lt;/table&gt;</description>
     </item>
     
     <item>
@@ -127,7 +140,7 @@ nr.&lt;sup&gt;53&lt;/sup&gt;&amp;frasl;&lt;sub&gt;02&lt;/sub&gt;.07.2015 a const
       <guid>http://statiunealovrin.ro/post/concurs/</guid>
       <description>
 
-&lt;h2 id=&#34;statiunea-de-cercetare-dezvoltare-agricola-lovrin-organizeaza-concurs-in-data-de-24-iulie-2015:256e1f6e8067944a259d344dd7a37fe4&#34;&gt;STATIUNEA DE CERCETARE-DEZVOLTARE AGRICOLA LOVRIN organizeaza concurs in data de 24 Iulie 2015&lt;/h2&gt;
+&lt;h2 id=&#34;statiunea-de-cercetare-dezvoltare-agricola-lovrin-organizeaza-concurs-in-data-de-24-iulie-2015&#34;&gt;STATIUNEA DE CERCETARE-DEZVOLTARE AGRICOLA LOVRIN organizeaza concurs in data de 24 Iulie 2015&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://statiunealovrin.ro/photos/post/anunt_iulie.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 </description>
@@ -141,7 +154,7 @@ nr.&lt;sup&gt;53&lt;/sup&gt;&amp;frasl;&lt;sub&gt;02&lt;/sub&gt;.07.2015 a const
       <guid>http://statiunealovrin.ro/istoric/</guid>
       <description>
 
-&lt;h2 id=&#34;scurt-istoric:a8728e45728aea262fd2463e31fa92e7&#34;&gt;Scurt istoric&lt;/h2&gt;
+&lt;h2 id=&#34;scurt-istoric&#34;&gt;Scurt istoric&lt;/h2&gt;
 
 &lt;p&gt;În Banat şi Câmpia de Vest a României, cercetările agricole au o bogată tradiţie. În această parte a ţării a existat o densă reţea de şcoli agricole (Lugoj, Ciacova, Sânnicolau Mare şi Voiteg), precum şi de cercetări în domeniul selecţiei şi creşterii animalelor, la Pădureni şi Izvin, toate aceste instituţii de stat contribuind la progresul agriculturii din această zonă.
 În anul 1946 a luat fiinţă Staţiunea Experimentală Agricolă Lovrin.
@@ -187,14 +200,14 @@ Avându-se în vedere perspectiva dezvoltării cercetărilor agricole din Banat,
       <guid>http://statiunealovrin.ro/oferte_seminte/</guid>
       <description>
 
-&lt;h1 id=&#34;prețuri-propuse-pentru-primavara-2016:743f91bb85bfea28f6f31dd072b5efb7&#34;&gt;PREȚURI PROPUSE PENTRU PRIMAVARA 2016&lt;/h1&gt;
+&lt;h1 id=&#34;prețuri-propuse-pentru-primavara-2016&#34;&gt;PREȚURI PROPUSE PENTRU PRIMAVARA 2016&lt;/h1&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://statiunealovrin.ro/photos/post/oferta_primavara_2016.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;Director
 Dr. Nicolae Marinel HORABLAGA&lt;/p&gt;
 
-&lt;h1 id=&#34;prețuri-propuse-pentru-toamna-2015:743f91bb85bfea28f6f31dd072b5efb7&#34;&gt;PREȚURI PROPUSE PENTRU TOAMNA 2015&lt;/h1&gt;
+&lt;h1 id=&#34;prețuri-propuse-pentru-toamna-2015&#34;&gt;PREȚURI PROPUSE PENTRU TOAMNA 2015&lt;/h1&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://statiunealovrin.ro/photos/post/oferta_toamna_2015.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 
@@ -259,7 +272,7 @@ Dr. Nicolae Marinel HORABLAGA&lt;/p&gt;
       <guid>http://statiunealovrin.ro/contact/</guid>
       <description>
 
-&lt;h2 id=&#34;reprezentant-vanzari-si-achizitii:3c4864f00d23f7ea35511ec930ce1d9c&#34;&gt;Reprezentant vanzari si achizitii&lt;/h2&gt;
+&lt;h2 id=&#34;reprezentant-vanzari-si-achizitii&#34;&gt;Reprezentant vanzari si achizitii&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Interval orar: L-V  08:00 - 16.00&lt;/li&gt;
@@ -267,7 +280,7 @@ Dr. Nicolae Marinel HORABLAGA&lt;/p&gt;
 &lt;li&gt;Tel: 0725.565.023 ; 0723.343.583&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;secretariat:3c4864f00d23f7ea35511ec930ce1d9c&#34;&gt;Secretariat&lt;/h2&gt;
+&lt;h2 id=&#34;secretariat&#34;&gt;Secretariat&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Tel: 0256.381.401&lt;/li&gt;
