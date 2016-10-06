@@ -8,7 +8,7 @@ title = "preturi propuse pentru toamna 2015"
 
 ## PREȚURI PROPUSE PENTRU TOAMNA 2015
 
-<img src="/photos/post/seminte_toamna_2015.png" alt="">
+<img src="/photos/post/seminte_toamna_2015.png" alt="toamna_2015">
 
 - La cantități mai mari de 100 tone se acorda o reducere de 25%
 - La cantități mai mari de 50 tone se acorda o reducere de 15%

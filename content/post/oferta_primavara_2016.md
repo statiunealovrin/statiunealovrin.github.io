@@ -8,7 +8,7 @@ title = "preturi propuse pentru primavara 2016"
 
 ## PREȚURI PROPUSE PENTRU PRIMAVARA 2016
 
-<img src="/photos/post/oferta_primavara_2016.png" alt="">
+<img src="/photos/post/oferta_primavara_2016.png" alt="primavara_2016">
 
 <!--more-->
 
