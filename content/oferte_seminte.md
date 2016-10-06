@@ -8,7 +8,7 @@ weight = 30
 
 # PREȚURI PROPUSE PENTRU TOAMNA 2016
 
-<img src="/photos/post/oferta_toamna_2016.jpg" alt="toamna_2016">
+<img src="/photos/post/oferta_toamna_2016.jpg" alt="toamna_2016" width="100%">
 
 Director
 Dr. Nicolae Marinel HORABLAGA
