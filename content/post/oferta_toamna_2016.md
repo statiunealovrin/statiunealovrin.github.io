@@ -11,6 +11,3 @@ title = "preturi propuse pentru toamna 2016"
 <img src="/photos/post/oferta_toamna_2016.jpg" alt="toamna_2016" width="100%">
 
 <!--more-->
-
-Director
-Dr. Nicolae Marinel HORABLAGA

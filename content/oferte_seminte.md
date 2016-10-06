@@ -10,10 +10,6 @@ weight = 30
 
 <img src="/photos/post/oferta_toamna_2016.jpg" alt="toamna_2016" width="100%">
 
-Director
-Dr. Nicolae Marinel HORABLAGA
-
-
 # PREȚURI PROPUSE PENTRU PRIMAVARA 2016
 
 <img src="/photos/post/oferta_primavara_2016.png" alt="primavara_2016">
