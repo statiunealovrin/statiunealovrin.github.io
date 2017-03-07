@@ -2,36 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://statiunealovrin.ro/</loc>
-    <lastmod>2016-10-06T17:35:26+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://statiunealovrin.ro/post/oferta_toamna_2016/</loc>
-    <lastmod>2016-10-06T17:35:26+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://statiunealovrin.ro/post/oferta_primavara_2016/</loc>
-    <lastmod>2016-02-27T10:15:26+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://statiunealovrin.ro/post/oferta_toamna_2015/</loc>
-    <lastmod>2015-08-06T10:36:02+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://statiunealovrin.ro/post/dosare/</loc>
-    <lastmod>2015-07-17T14:54:38+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://statiunealovrin.ro/post/concurs/</loc>
-    <lastmod>2015-07-01T13:04:29+03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://statiunealovrin.ro/istoric/</loc>
     <lastmod>2015-09-15T14:59:02+03:00</lastmod>
   </url>
@@ -74,6 +44,83 @@
   <url>
     <loc>http://statiunealovrin.ro/contact/</loc>
     <lastmod>2016-02-23T09:21:45+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://statiunealovrin.ro/post/oferta_toamna_2016/</loc>
+    <lastmod>2016-10-06T17:35:26+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://statiunealovrin.ro/post/oferta_primavara_2016/</loc>
+    <lastmod>2016-02-27T10:15:26+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://statiunealovrin.ro/post/oferta_toamna_2015/</loc>
+    <lastmod>2015-08-06T10:36:02+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://statiunealovrin.ro/post/dosare/</loc>
+    <lastmod>2015-07-17T14:54:38+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://statiunealovrin.ro/post/concurs/</loc>
+    <lastmod>2015-07-01T13:04:29+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://statiunealovrin.ro/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://statiunealovrin.ro/tags/galerie/</loc>
+    <lastmod>2015-05-18T14:58:52+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://statiunealovrin.ro/categories/galerie/</loc>
+    <lastmod>2015-05-18T14:58:52+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://statiunealovrin.ro/categories/oferte/</loc>
+    <lastmod>2016-10-06T17:35:26+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://statiunealovrin.ro/post/</loc>
+    <lastmod>2016-10-06T17:35:26+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://statiunealovrin.ro/tags/preturi/</loc>
+    <lastmod>2016-10-06T17:35:26+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://statiunealovrin.ro/tags/seminte/</loc>
+    <lastmod>2016-10-06T17:35:26+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://statiunealovrin.ro/</loc>
+    <lastmod>2015-09-15T14:59:02+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://statiunealovrin.ro/tags/</loc>
+    <priority>0</priority>
   </url>
   
 </urlset>
