@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Statiunea Lovrin</title>
+    <link>http://statiunealovrin.ro/tags/index.xml</link>
+    <description>Recent content in Tags on Statiunea Lovrin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ro-ro</language>
+    <copyright>statiunealovrin</copyright>
+    <lastBuildDate>Mon, 18 May 2015 14:58:52 +0300</lastBuildDate>
+    <atom:link href="http://statiunealovrin.ro/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Galerie</title>
+      <link>http://statiunealovrin.ro/tags/galerie/</link>
+      <pubDate>Mon, 18 May 2015 14:58:52 +0300</pubDate>
+      
+      <guid>http://statiunealovrin.ro/tags/galerie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preturi</title>
+      <link>http://statiunealovrin.ro/tags/preturi/</link>
+      <pubDate>Thu, 06 Oct 2016 17:35:26 +0300</pubDate>
+      
+      <guid>http://statiunealovrin.ro/tags/preturi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seminte</title>
+      <link>http://statiunealovrin.ro/tags/seminte/</link>
+      <pubDate>Thu, 06 Oct 2016 17:35:26 +0300</pubDate>
+      
+      <guid>http://statiunealovrin.ro/tags/seminte/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
