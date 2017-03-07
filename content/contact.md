@@ -9,8 +9,10 @@ weight = 80
 
 ## Reprezentant vanzari si achizitii
 * Interval orar: L-V  08:00 - 16.00
-* Nume: Pop Livius
-* Tel: 0725.565.023 ; 0723.343.583
+* Nume: Rain Petru
+* Tel: 0722.358.249
+* Nume: Milităroiu Mia
+* Tel: 0767.487.514
 
 ## Secretariat
 * Tel: 0256.381.401
