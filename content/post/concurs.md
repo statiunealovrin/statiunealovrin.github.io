@@ -1,4 +1,5 @@
 +++
+categories = ["anunt","angajari"]
 date = "2015-07-01T13:04:29+03:00"
 title = "Concurs"
 
