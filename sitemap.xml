@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>http://statiunealovrin.ro/istoric/</loc>
@@ -47,6 +48,11 @@
   </url>
   
   <url>
+    <loc>http://statiunealovrin.ro/post/angajari/</loc>
+    <lastmod>2017-04-24T13:23:25+03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://statiunealovrin.ro/post/oferta_toamna_2016/</loc>
     <lastmod>2016-10-06T17:35:26+03:00</lastmod>
   </url>
@@ -72,7 +78,20 @@
   </url>
   
   <url>
+    <loc>http://statiunealovrin.ro/categories/angajari/</loc>
+    <lastmod>2017-04-24T13:23:25+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://statiunealovrin.ro/categories/anunt/</loc>
+    <lastmod>2017-04-24T13:23:25+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://statiunealovrin.ro/categories/</loc>
+    <lastmod>2017-04-24T13:23:25+03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -96,7 +115,7 @@
   
   <url>
     <loc>http://statiunealovrin.ro/post/</loc>
-    <lastmod>2016-10-06T17:35:26+03:00</lastmod>
+    <lastmod>2017-04-24T13:23:25+03:00</lastmod>
     <priority>0</priority>
   </url>
   

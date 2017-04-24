@@ -2,13 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Statiunea Lovrin</title>
-    <link>http://statiunealovrin.ro/index.xml</link>
+    <link>http://statiunealovrin.ro/</link>
     <description>Recent content on Statiunea Lovrin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ro-ro</language>
     <copyright>statiunealovrin</copyright>
     <lastBuildDate>Tue, 15 Sep 2015 14:59:02 +0300</lastBuildDate>
-    <atom:link href="http://statiunealovrin.ro/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://statiunealovrin.ro/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>istoric</title>
@@ -16,24 +18,7 @@
       <pubDate>Tue, 15 Sep 2015 14:59:02 +0300</pubDate>
       
       <guid>http://statiunealovrin.ro/istoric/</guid>
-      <description>
-
-&lt;h2 id=&#34;scurt-istoric&#34;&gt;Scurt istoric&lt;/h2&gt;
-
-&lt;p&gt;În Banat şi Câmpia de Vest a României, cercetările agricole au o bogată tradiţie. În această parte a ţării a existat o densă reţea de şcoli agricole (Lugoj, Ciacova, Sânnicolau Mare şi Voiteg), precum şi de cercetări în domeniul selecţiei şi creşterii animalelor, la Pădureni şi Izvin, toate aceste instituţii de stat contribuind la progresul agriculturii din această zonă.
-În anul 1946 a luat fiinţă Staţiunea Experimentală Agricolă Lovrin.
-Avându-se în vedere perspectiva dezvoltării cercetărilor agricole din Banat, alegerea locului pentru amplasarea staţiunii aparţine unui colectiv de cadre didactice al Facultăţii de Agronomie din Timişoara, din care au făcut parte Prof. Dr. doc. Şt. Irimie Staicu, membru corespondent al Academiei R.S.R şi Prof. Dr. doc. Şt. Gheorghe Valuţă, membru titular al Academiei de Ştiinţe Agricole şi Silvice.&lt;/p&gt;
-
-&lt;p&gt;Evoluţia cercetărilor agricole a cunoscut două etape distincte. Prima etapă (1946-1961) este perioada în care, în paralel, au funcţionat şi staţiunile Cenad, Pădureni şi Ceala-Arad. În aceşti ani de început, cercetările de la Lovrin au vizat obţinerea soiului de sfeclă de zahăr Lovrin 532, a pepenului verde Lovrin 532 şi a unui soi de salată de toamnă. Tot în această perioadă, experimentările efectuate au contribuit la zonarea soiurilor pentru principalele plante de cultură, producerea de sămânţă şi elaborarea tehnologiilor pentru culturile de câmp, plante medicinale şi aromatice, legume şi culturi furajere, precum şi pentru îmbunătăţirea păşunilor şi fâneţelor naturale.&lt;/p&gt;
-
-&lt;p&gt;În cea de a doua etapă (după 1962), când s-au unificat cercetările agricole din România, la Lovrin s-au concentrat atât activitatea ştiinţifică, cât şi cadrele de cercetători de la fostele staţiuni din zonă (Cenad, Ceala-Arad şi Pădureni), organizându-se, astfel, un puternic centru de cercetare agricolă.&lt;/p&gt;
-
-&lt;p&gt;După această reorganizare şi până acum s-au înregistrat succese importante prin omologarea a 11 soiuri de grâu, 5 hibrizi simpli de porumb, 5 soiuri de sfeclă furajeră, 2 soiuri de rapiţă şi un soi de gulie furajeră (s-a colaborat şi la obţinerea soiului de sfeclă de zahăr R. Poli 7), care se află răspândiţi în cultură în toate zonele agricole din ţară. Prin cercetările desfăşurate, staţiunea a contribuit la generalizarea în producţie a noilor soiuri de hibrizi de grâu, orz, ovăz, porumb, floarea-soarelui, soia, fasole, mazăre, în, cânepă, sfeclă de zahăr şi la culturile furajere, asigurând, totodată, şi mari cantităţi de seminţe din categoriile biologice prebază şi bază, reproducători şi animale de prăsilă, precum şi tehnologiile pentru principalele plante cultivate în zonă.&lt;/p&gt;
-
-&lt;p&gt;Activitatea de cercetare s-a finalizat şi prin lucrări ştiinţifice (peste 900) publicate în ţară şi străinătate, elaborarea de publicaţii, broşuri şi pliante, cărţi, monografii, pentru promovarea ştiinţei agricole, precum şi prin organizarea de centre de cercetare şi loturi demonstrative cu soiuri, hibrizi şi verigi de tehnologie în zona de activitate.&lt;/p&gt;
-
-&lt;p&gt;În acest timp, 25 de cercetători au obţinut titlul de doctor în agronomie. A avut loc succesiunea unor colective puternice de specialişti cu experienţă, care au contribuit la rezolvarea competentă a problemelor agriculturii Banatului şi a ţării.&lt;/p&gt;
-</description>
+      <description>Scurt istoric În Banat şi Câmpia de Vest a României, cercetările agricole au o bogată tradiţie. În această parte a ţării a existat o densă reţea de şcoli agricole (Lugoj, Ciacova, Sânnicolau Mare şi Voiteg), precum şi de cercetări în domeniul selecţiei şi creşterii animalelor, la Pădureni şi Izvin, toate aceste instituţii de stat contribuind la progresul agriculturii din această zonă. În anul 1946 a luat fiinţă Staţiunea Experimentală Agricolă Lovrin.</description>
     </item>
     
     <item>
@@ -42,8 +27,7 @@ Avându-se în vedere perspectiva dezvoltării cercetărilor agricole din Banat,
       <pubDate>Tue, 23 Feb 2016 09:17:58 +0200</pubDate>
       
       <guid>http://statiunealovrin.ro/obiective/</guid>
-      <description>&lt;p&gt;Pagina in constructie. Va rugam sa reveniti.&lt;/p&gt;
-</description>
+      <description>Pagina in constructie. Va rugam sa reveniti.</description>
     </item>
     
     <item>
@@ -52,8 +36,7 @@ Avându-se în vedere perspectiva dezvoltării cercetărilor agricole din Banat,
       <pubDate>Mon, 18 May 2015 14:59:02 +0300</pubDate>
       
       <guid>http://statiunealovrin.ro/soiuri_si_hibrizi/</guid>
-      <description>&lt;p&gt;Pagina in constructie. Va rugam sa reveniti.&lt;/p&gt;
-</description>
+      <description>Pagina in constructie. Va rugam sa reveniti.</description>
     </item>
     
     <item>
@@ -62,31 +45,8 @@ Avându-se în vedere perspectiva dezvoltării cercetărilor agricole din Banat,
       <pubDate>Mon, 18 May 2015 14:59:02 +0300</pubDate>
       
       <guid>http://statiunealovrin.ro/oferte_seminte/</guid>
-      <description>
-
-&lt;h1 id=&#34;prețuri-propuse-pentru-toamna-2016&#34;&gt;PREȚURI PROPUSE PENTRU TOAMNA 2016&lt;/h1&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://statiunealovrin.ro/photos/post/oferta_toamna_2016.jpg&#34; alt=&#34;toamna_2016&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;prețuri-propuse-pentru-primavara-2016&#34;&gt;PREȚURI PROPUSE PENTRU PRIMAVARA 2016&lt;/h1&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://statiunealovrin.ro/photos/post/oferta_primavara_2016.png&#34; alt=&#34;primavara_2016&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;Director
-Dr. Nicolae Marinel HORABLAGA&lt;/p&gt;
-
-&lt;h1 id=&#34;prețuri-propuse-pentru-toamna-2015&#34;&gt;PREȚURI PROPUSE PENTRU TOAMNA 2015&lt;/h1&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://statiunealovrin.ro/photos/post/oferta_toamna_2015.png&#34; alt=&#34;toamna_2015&#34;&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;La cantități mai mari de 100 tone se acorda o reducere de 25%&lt;/li&gt;
-&lt;li&gt;La cantități mai mari de 50 tone se acorda o reducere de 15%&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Director
-Dr. Nicolae Marinel HORABLAGA&lt;/p&gt;
-</description>
+      <description>PREȚURI PROPUSE PENTRU TOAMNA 2016 PREȚURI PROPUSE PENTRU PRIMAVARA 2016 Director Dr. Nicolae Marinel HORABLAGA
+PREȚURI PROPUSE PENTRU TOAMNA 2015  La cantități mai mari de 100 tone se acorda o reducere de 25% La cantități mai mari de 50 tone se acorda o reducere de 15%  Director Dr. Nicolae Marinel HORABLAGA</description>
     </item>
     
     <item>
@@ -95,8 +55,7 @@ Dr. Nicolae Marinel HORABLAGA&lt;/p&gt;
       <pubDate>Mon, 18 May 2015 14:59:02 +0300</pubDate>
       
       <guid>http://statiunealovrin.ro/cercetare/</guid>
-      <description>&lt;p&gt;Pagina in constructie. Va rugam sa reveniti.&lt;/p&gt;
-</description>
+      <description>Pagina in constructie. Va rugam sa reveniti.</description>
     </item>
     
     <item>
@@ -105,8 +64,7 @@ Dr. Nicolae Marinel HORABLAGA&lt;/p&gt;
       <pubDate>Mon, 18 May 2015 14:59:02 +0300</pubDate>
       
       <guid>http://statiunealovrin.ro/echipa/</guid>
-      <description>&lt;p&gt;Pagina in constructie. Va rugam sa reveniti.&lt;/p&gt;
-</description>
+      <description>Pagina in constructie. Va rugam sa reveniti.</description>
     </item>
     
     <item>
@@ -115,11 +73,7 @@ Dr. Nicolae Marinel HORABLAGA&lt;/p&gt;
       <pubDate>Mon, 18 May 2015 14:58:52 +0300</pubDate>
       
       <guid>http://statiunealovrin.ro/galerie/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://statiunealovrin.ro/photos/galerie/1.jpg&#34; title=&#34;&#34; data-lightbox=&#34;set1&#34; data-title=&#34;1&#34;&gt; &lt;img src=&#34;http://statiunealovrin.ro/photos/galerie/thumb_1.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;
-&lt;a href=&#34;http://statiunealovrin.ro/photos/galerie/2.jpg&#34; title=&#34;&#34; data-lightbox=&#34;set1&#34; data-title=&#34;1&#34;&gt; &lt;img src=&#34;http://statiunealovrin.ro/photos/galerie/thumb_2.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;
-&lt;a href=&#34;http://statiunealovrin.ro/photos/galerie/3.jpg&#34; title=&#34;&#34; data-lightbox=&#34;set1&#34; data-title=&#34;1&#34;&gt; &lt;img src=&#34;http://statiunealovrin.ro/photos/galerie/thumb_3.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;
-&lt;a href=&#34;http://statiunealovrin.ro/photos/galerie/4.jpg&#34; title=&#34;&#34; data-lightbox=&#34;set1&#34; data-title=&#34;1&#34;&gt; &lt;img src=&#34;http://statiunealovrin.ro/photos/galerie/thumb_4.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -128,8 +82,7 @@ Dr. Nicolae Marinel HORABLAGA&lt;/p&gt;
       <pubDate>Mon, 18 May 2015 14:59:02 +0300</pubDate>
       
       <guid>http://statiunealovrin.ro/publicatii/</guid>
-      <description>&lt;p&gt;Pagina in constructie. Va rugam sa reveniti.&lt;/p&gt;
-</description>
+      <description>Pagina in constructie. Va rugam sa reveniti.</description>
     </item>
     
     <item>
@@ -138,28 +91,16 @@ Dr. Nicolae Marinel HORABLAGA&lt;/p&gt;
       <pubDate>Tue, 23 Feb 2016 09:21:45 +0200</pubDate>
       
       <guid>http://statiunealovrin.ro/contact/</guid>
-      <description>
-
-&lt;h2 id=&#34;reprezentant-vanzari-si-achizitii&#34;&gt;Reprezentant vanzari si achizitii&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Interval orar: L-V  08:00 - 16.00&lt;/li&gt;
-&lt;li&gt;Nume: Rain Petru&lt;/li&gt;
-&lt;li&gt;Tel: 0722.358.249&lt;/li&gt;
-&lt;li&gt;Nume: Milităroiu Mia&lt;/li&gt;
-&lt;li&gt;Tel: 0767.487.514&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;secretariat&#34;&gt;Secretariat&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Tel: 0256.381.401&lt;/li&gt;
-&lt;li&gt;Fax: 0256.381.404&lt;/li&gt;
-&lt;li&gt;Adresa: Str. Principala nr. 200 Loc. Lovrin jud Timis&lt;/li&gt;
-&lt;li&gt;Email: &lt;a href=&#34;mailto://scdal@yahoo.com&#34;&gt;scdal@yahoo.com&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/Statiunea-de-Cercetare-Dezvoltare-agricola-Lovrin-391942644298393/&#34;&gt;Facebook&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description> Reprezentant vanzari si achizitii  Interval orar: L-V 08:00 - 16.00 Nume: Rain Petru Tel: 0722.358.249 Nume: Milităroiu Mia Tel: 0767.487.514  Secretariat  Tel: 0256.381.401 Fax: 0256.381.404 Adresa: Str. Principala nr. 200 Loc. Lovrin jud Timis Email: scdal@yahoo.com Facebook  </description>
+    </item>
+    
+    <item>
+      <title>angajari aprilie 2017</title>
+      <link>http://statiunealovrin.ro/post/angajari/</link>
+      <pubDate>Mon, 24 Apr 2017 13:23:25 +0300</pubDate>
+      
+      <guid>http://statiunealovrin.ro/post/angajari/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -185,10 +126,7 @@ Dr. Nicolae Marinel HORABLAGA&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://statiunealovrin.ro/photos/post/oferta_primavara_2016.png&#34; alt=&#34;primavara_2016&#34;&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;Director
-Dr. Nicolae Marinel HORABLAGA&lt;/p&gt;</description>
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -206,10 +144,7 @@ Dr. Nicolae Marinel HORABLAGA&lt;/p&gt;</description>
 &lt;li&gt;La cantități mai mari de 50 tone se acorda o reducere de 15%&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;Director
-Dr. Nicolae Marinel HORABLAGA&lt;/p&gt;</description>
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -230,55 +165,7 @@ fonduri publice, aprobat prin H.G.nr.&lt;sup&gt;286&lt;/sup&gt;&amp;frasl;&lt;su
 analiza dosarelor, comisia de concurs numită prin decizia S.C.D.A.Lovrin
 nr.&lt;sup&gt;53&lt;/sup&gt;&amp;frasl;&lt;sub&gt;02&lt;/sub&gt;.07.2015 a constatat următoarele:&lt;/p&gt;
 
-&lt;p&gt;&lt;/p&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Nr. crt.&lt;/th&gt;
-&lt;th&gt;Nume şi prenume candidat&lt;/th&gt;
-&lt;th&gt;Post concurs&lt;/th&gt;
-&lt;th&gt;Rezultat&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;1&lt;/td&gt;
-&lt;td&gt;Ionaş Margareta-Leila&lt;/td&gt;
-&lt;td&gt;ACS - Lab.Protecţia plantelor&lt;/td&gt;
-&lt;td&gt;Admis&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;2&lt;/td&gt;
-&lt;td&gt;Vişovan Mărioara&lt;/td&gt;
-&lt;td&gt;ACS - Lab.Protecţia plantelor&lt;/td&gt;
-&lt;td&gt;Admis&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;3&lt;/td&gt;
-&lt;td&gt;Dolga Gabriela&lt;/td&gt;
-&lt;td&gt;ACS - Lab Ovăz&lt;/td&gt;
-&lt;td&gt;Admis&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;4&lt;/td&gt;
-&lt;td&gt;Ţonea Cosmin Sorin&lt;/td&gt;
-&lt;td&gt;ACS - Lab Porumb&lt;/td&gt;
-&lt;td&gt;Admis&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;5&lt;/td&gt;
-&lt;td&gt;Cosma Corina Mihaela&lt;/td&gt;
-&lt;td&gt;CS III – Punct lucru Oradea&lt;/td&gt;
-&lt;td&gt;Admis&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;</description>
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -287,12 +174,7 @@ nr.&lt;sup&gt;53&lt;/sup&gt;&amp;frasl;&lt;sub&gt;02&lt;/sub&gt;.07.2015 a const
       <pubDate>Wed, 01 Jul 2015 13:04:29 +0300</pubDate>
       
       <guid>http://statiunealovrin.ro/post/concurs/</guid>
-      <description>
-
-&lt;h2 id=&#34;statiunea-de-cercetare-dezvoltare-agricola-lovrin-organizeaza-concurs-in-data-de-24-iulie-2015&#34;&gt;STATIUNEA DE CERCETARE-DEZVOLTARE AGRICOLA LOVRIN organizeaza concurs in data de 24 Iulie 2015&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://statiunealovrin.ro/photos/post/anunt_iulie.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-</description>
+      <description> STATIUNEA DE CERCETARE-DEZVOLTARE AGRICOLA LOVRIN organizeaza concurs in data de 24 Iulie 2015 </description>
     </item>
     
   </channel>

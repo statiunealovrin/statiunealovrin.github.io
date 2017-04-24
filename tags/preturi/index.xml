@@ -2,12 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Preturi on Statiunea Lovrin</title>
-    <link>http://statiunealovrin.ro/tags/preturi/index.xml</link>
+    <link>http://statiunealovrin.ro/tags/preturi/</link>
     <description>Recent content in Preturi on Statiunea Lovrin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ro-ro</language>
     <copyright>statiunealovrin</copyright>
-    <atom:link href="http://statiunealovrin.ro/tags/preturi/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Oct 2016 17:35:26 +0300</lastBuildDate>
+    
+	<atom:link href="http://statiunealovrin.ro/tags/preturi/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>preturi propuse pentru toamna 2016</title>
@@ -32,10 +35,7 @@
 
 &lt;p&gt;&lt;img src=&#34;http://statiunealovrin.ro/photos/post/oferta_primavara_2016.png&#34; alt=&#34;primavara_2016&#34;&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;Director
-Dr. Nicolae Marinel HORABLAGA&lt;/p&gt;</description>
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -53,10 +53,7 @@ Dr. Nicolae Marinel HORABLAGA&lt;/p&gt;</description>
 &lt;li&gt;La cantități mai mari de 50 tone se acorda o reducere de 15%&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;Director
-Dr. Nicolae Marinel HORABLAGA&lt;/p&gt;</description>
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>

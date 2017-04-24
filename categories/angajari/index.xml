@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Angajari on Statiunea Lovrin</title>
+    <link>http://statiunealovrin.ro/categories/angajari/</link>
+    <description>Recent content in Angajari on Statiunea Lovrin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ro-ro</language>
+    <copyright>statiunealovrin</copyright>
+    <lastBuildDate>Mon, 24 Apr 2017 13:23:25 +0300</lastBuildDate>
+    
+	<atom:link href="http://statiunealovrin.ro/categories/angajari/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>angajari aprilie 2017</title>
+      <link>http://statiunealovrin.ro/post/angajari/</link>
+      <pubDate>Mon, 24 Apr 2017 13:23:25 +0300</pubDate>
+      
+      <guid>http://statiunealovrin.ro/post/angajari/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
