@@ -73,7 +73,8 @@ PREȚURI PROPUSE PENTRU TOAMNA 2015  La cantități mai mari de 100 tone se acor
       <pubDate>Mon, 18 May 2015 14:58:52 +0300</pubDate>
       
       <guid>http://statiunealovrin.ro/galerie/</guid>
-      <description></description>
+      <description>   
+  lightbox.option({ &#39;resizeDuration&#39;: 200, &#39;wrapAround&#39;: true })  </description>
     </item>
     
     <item>
