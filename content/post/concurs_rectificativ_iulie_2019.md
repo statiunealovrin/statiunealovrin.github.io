@@ -1,5 +1,5 @@
 +++
-categories = ["concurs","angajari"]
+categories = ["anunt","angajari"]
 comments = true
 date = "2019-07-30T17:25:25+03:00"
 title = "concurs rectificativ iulie 2019"
