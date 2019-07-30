@@ -49,46 +49,62 @@
   
   <url>
     <loc>http://statiunealovrin.ro/categories/</loc>
-    <lastmod>2019-07-03T11:15:25+03:00</lastmod>
+    <lastmod>2019-07-30T17:25:25+03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://statiunealovrin.ro/post/</loc>
-    <lastmod>2019-07-03T11:15:25+03:00</lastmod>
+    <loc>http://statiunealovrin.ro/posts/</loc>
+    <lastmod>2019-07-30T17:25:25+03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://statiunealovrin.ro/</loc>
-    <lastmod>2019-07-03T11:15:25+03:00</lastmod>
+    <lastmod>2019-07-30T17:25:25+03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://statiunealovrin.ro/categories/angajari/</loc>
-    <lastmod>2019-07-03T11:15:25+03:00</lastmod>
+    <lastmod>2019-07-30T17:25:25+03:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://statiunealovrin.ro/post/angajari_3/</loc>
-    <lastmod>2019-07-03T11:15:25+03:00</lastmod>
   </url>
   
   <url>
     <loc>http://statiunealovrin.ro/categories/anunt/</loc>
-    <lastmod>2019-07-03T11:15:25+03:00</lastmod>
+    <lastmod>2019-07-30T17:25:25+03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://statiunealovrin.ro/post/angajari_2/</loc>
+    <loc>http://statiunealovrin.ro/posts/concurs_rectificativ_iulie_2019/</loc>
+    <lastmod>2019-07-30T17:25:25+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://statiunealovrin.ro/categories/rezultate/</loc>
+    <lastmod>2019-07-30T17:25:25+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://statiunealovrin.ro/posts/rezultate/</loc>
+    <lastmod>2019-07-30T17:25:25+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://statiunealovrin.ro/posts/angajari_3/</loc>
+    <lastmod>2019-07-03T11:15:25+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://statiunealovrin.ro/posts/angajari_2/</loc>
     <lastmod>2018-11-05T16:03:25+03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://statiunealovrin.ro/post/angajari/</loc>
+    <loc>http://statiunealovrin.ro/posts/angajari/</loc>
     <lastmod>2017-04-24T13:23:25+03:00</lastmod>
   </url>
   
@@ -111,7 +127,7 @@
   </url>
   
   <url>
-    <loc>http://statiunealovrin.ro/post/oferta_toamna_2016/</loc>
+    <loc>http://statiunealovrin.ro/posts/oferta_toamna_2016/</loc>
     <lastmod>2016-10-06T17:35:26+03:00</lastmod>
   </url>
   
@@ -122,22 +138,22 @@
   </url>
   
   <url>
-    <loc>http://statiunealovrin.ro/post/oferta_primavara_2016/</loc>
+    <loc>http://statiunealovrin.ro/posts/oferta_primavara_2016/</loc>
     <lastmod>2016-02-27T10:15:26+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://statiunealovrin.ro/post/oferta_toamna_2015/</loc>
+    <loc>http://statiunealovrin.ro/posts/oferta_toamna_2015/</loc>
     <lastmod>2015-08-06T10:36:02+03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://statiunealovrin.ro/post/dosare/</loc>
+    <loc>http://statiunealovrin.ro/posts/dosare/</loc>
     <lastmod>2015-07-17T14:54:38+03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://statiunealovrin.ro/post/concurs/</loc>
+    <loc>http://statiunealovrin.ro/posts/concurs/</loc>
     <lastmod>2015-07-01T13:04:29+03:00</lastmod>
   </url>
   

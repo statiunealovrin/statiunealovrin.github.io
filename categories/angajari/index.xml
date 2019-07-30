@@ -7,17 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ro-ro</language>
     <copyright>Code released under the Apache 2.0 license.</copyright>
-    <lastBuildDate>Wed, 03 Jul 2019 11:15:25 +0300</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jul 2019 17:25:25 +0300</lastBuildDate>
     
 	<atom:link href="http://statiunealovrin.ro/categories/angajari/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>concurs rectificativ iulie 2019</title>
+      <link>http://statiunealovrin.ro/posts/concurs_rectificativ_iulie_2019/</link>
+      <pubDate>Tue, 30 Jul 2019 17:25:25 +0300</pubDate>
+      
+      <guid>http://statiunealovrin.ro/posts/concurs_rectificativ_iulie_2019/</guid>
+      <description> Concurs rectificativ iulie 2019 </description>
+    </item>
+    
+    <item>
+      <title>rezultate angajari iulie 2019</title>
+      <link>http://statiunealovrin.ro/posts/rezultate/</link>
+      <pubDate>Tue, 30 Jul 2019 17:25:25 +0300</pubDate>
+      
+      <guid>http://statiunealovrin.ro/posts/rezultate/</guid>
+      <description> Rezultate angajari iulie 2019 </description>
+    </item>
+    
+    <item>
       <title>angajari iulie 2019</title>
-      <link>http://statiunealovrin.ro/post/angajari_3/</link>
+      <link>http://statiunealovrin.ro/posts/angajari_3/</link>
       <pubDate>Wed, 03 Jul 2019 11:15:25 +0300</pubDate>
       
-      <guid>http://statiunealovrin.ro/post/angajari_3/</guid>
+      <guid>http://statiunealovrin.ro/posts/angajari_3/</guid>
       <description>Angajari iulie 2019 Pentru detalii accesati documentul de mai jos:
 Angajari iulie 2019
 Angajari iulie 2019 concurs economist</description>
@@ -25,30 +43,30 @@ Angajari iulie 2019 concurs economist</description>
     
     <item>
       <title>angajari noiembrie 2018</title>
-      <link>http://statiunealovrin.ro/post/angajari_2/</link>
+      <link>http://statiunealovrin.ro/posts/angajari_2/</link>
       <pubDate>Mon, 05 Nov 2018 16:03:25 +0300</pubDate>
       
-      <guid>http://statiunealovrin.ro/post/angajari_2/</guid>
+      <guid>http://statiunealovrin.ro/posts/angajari_2/</guid>
       <description>Angajari noiembrie 2018 Pentru detalii accesati documentul de mai jos:
 Angajari noiembrie 2018</description>
     </item>
     
     <item>
       <title>angajari aprilie 2017</title>
-      <link>http://statiunealovrin.ro/post/angajari/</link>
+      <link>http://statiunealovrin.ro/posts/angajari/</link>
       <pubDate>Mon, 24 Apr 2017 13:23:25 +0300</pubDate>
       
-      <guid>http://statiunealovrin.ro/post/angajari/</guid>
+      <guid>http://statiunealovrin.ro/posts/angajari/</guid>
       <description>Angajari aprilie 2017 Pentru detalii accesati documentul de mai jos:
 Angajari aprilie 2017</description>
     </item>
     
     <item>
       <title>Concurs</title>
-      <link>http://statiunealovrin.ro/post/concurs/</link>
+      <link>http://statiunealovrin.ro/posts/concurs/</link>
       <pubDate>Wed, 01 Jul 2015 13:04:29 +0300</pubDate>
       
-      <guid>http://statiunealovrin.ro/post/concurs/</guid>
+      <guid>http://statiunealovrin.ro/posts/concurs/</guid>
       <description> STATIUNEA DE CERCETARE-DEZVOLTARE AGRICOLA LOVRIN organizeaza concurs in data de 24 Iulie 2015 </description>
     </item>
     
