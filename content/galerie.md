@@ -5,6 +5,7 @@ Tags = ["galerie"]
 date = "2015-05-18T14:58:52+03:00"
 menu = "main"
 title = "galerie"
+type = "post"
 nodate = true
 lightbox = true
 weight = 50

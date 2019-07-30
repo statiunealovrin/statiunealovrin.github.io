@@ -3,6 +3,7 @@ Description = ""
 date = "2015-09-15T14:59:02+03:00"
 menu = "main"
 title = "istoric"
+type = "post"
 nodate = true
 weight = 10
 +++
